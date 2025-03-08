@@ -1,0 +1,51 @@
+Introduction - 
+    To access computer resources 2 ways 
+    1 - command line interface (CLI)
+        i - cmd (command prompt)
+        ii - powershell (gitbash (needs to install))
+        iii - azure (cloud)
+    2 - graphical user interface (GUI)
+            all the things that are graphical (we can see) e.g folders, videos, images etc.
+
+Powerhsell: 
+- ls  --> list
+- cd --> change directory/folder
+- ctrl + l --> clears screen
+- cd .. --> go back
+- mkdir --> creates folder (mkdir folderName)
+- rm --> do delete folder/file (rm folderName)
+- code . -> to open vs code
+- mv --> to rename mv currentFolder newFolder
+
+
+
+======= GIT ============
+Introduction: Version Control System
+
+- cmd - git -v (to check whether the git is installed or not)
+
+- download git if you don't have
+- open gitbash from start menu
+- touch index.html style.css script.js (can create multiple folders)
+- git repository (kind of database), different versions of our code get stores in it.
+- different branches in git (main branch is master branch)
+- U - stands for untracked folders
+- A - added 
+
+Commands
+- git init
+- git add . (to add all files in staging area)
+- git status - to see files and there changes
+
+commit - whatever we change in our files we tell our repo to take screenshot of our code and add msg (commit)
+
+
+- git commig -m 'initial commit'
+
+
+===========================
+To Initialize - to create repository
+Step 1 - git init
+
+
+

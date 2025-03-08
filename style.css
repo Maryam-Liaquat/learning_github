@@ -1,0 +1,15 @@
+body{
+    background-color: aliceblue;
+}
+
+h1, h2, strong{
+    color: orangered;
+}
+
+p {
+    color: rgb(177, 117, 7)
+}
+
+ul, li, ol{
+    color: brown;
+}

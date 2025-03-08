@@ -37,16 +37,21 @@ Commands
 - git init
 - git add . (to add all files in staging area)
 - git status - to see files and there changes
+- git log - to see history
+- q to exit log
+- git checkout (commit id) - to move to that commit
 
 commit - whatever we change in our files we tell our repo to take screenshot of our code and add msg (commit)
-
-
 
 
 ===========================
 To Initialize - to create repository
 - git init
 
-
+============
 To commit your code to repo
 - git commit -m 'initial commit'
+
+=====
+To add 
+- git add . (to add all files in staging area)

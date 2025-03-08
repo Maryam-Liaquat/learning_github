@@ -31,6 +31,7 @@ Introduction: Version Control System
 - different branches in git (main branch is master branch)
 - U - stands for untracked folders
 - A - added 
+- M - Modified
 
 Commands
 - git init
@@ -40,12 +41,12 @@ Commands
 commit - whatever we change in our files we tell our repo to take screenshot of our code and add msg (commit)
 
 
-- git commig -m 'initial commit'
 
 
 ===========================
 To Initialize - to create repository
-Step 1 - git init
+- git init
 
 
-
+To commit your code to repo
+- git commit -m 'initial commit'
